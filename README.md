@@ -36,6 +36,6 @@ The ENFWI project encompasses both the codebase and practical data used in the a
 (Specify the licensing information for your project.)
 
 ## Citation
-(If applicable, provide a citation format for users who use this project for academic purposes.)
+C. Zhang, J. Li and H. Cao, "Integrating Elastic Neural Network Seismic Waveform With Petrophysical Inversion Framework for Critical Zone Properties Estimation," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, Art no. 4510713, doi: 10.1109/TGRS.2024.3451116.
 
 For more details, please refer to the accompanying research paper or contact the development team.
