@@ -33,7 +33,7 @@ The ENFWI project encompasses both the codebase and practical data used in the a
 (Invite contributions from other developers. Provide guidelines on how they can contribute, report issues, and suggest enhancements.)
 
 ## License
-(Specify the licensing information for your project.)
+SWD is distributed under the GNU General Public License v3.0. See the `LICENSE` file for more details.
 
 ## Citation
 C. Zhang, J. Li and H. Cao, "Integrating Elastic Neural Network Seismic Waveform With Petrophysical Inversion Framework for Critical Zone Properties Estimation," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, Art no. 4510713, doi: 10.1109/TGRS.2024.3451116.
